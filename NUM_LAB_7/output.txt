@@ -1,0 +1,4 @@
+trapz = 91.9856
+lRectangle = 91.9856
+rRectangle = 91.995
+sympson = 91.9806
